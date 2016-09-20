@@ -1,0 +1,16 @@
+<resources >
+    <string name="app_name">Stopwatch</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="begin">Begin</string>
+    <string name="alert">Alert</string>
+    <string name="stop_alert">Stop Alert</string>
+    <string name="alert_text">Alert after each : </string>
+    <string name="sound_text">Choose at least 1 second above! </string>
+
+</resources>
+
+
+
